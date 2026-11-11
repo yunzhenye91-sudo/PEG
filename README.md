@@ -36,9 +36,17 @@ Together, these components control the growth of adversarial strength across tra
 
 The paper evaluates DAM-DRL in obstacle-rich drone pursuit-evasion simulations, with comparisons against representative learning-based and planning-based methods. Physical flight experiments further demonstrate deployment of the learned policies on real UAVs.
 
-[![Preview of the simulation and real-world experiment video](assets/images/video_preview.jpg)](assets/videos/dam_drl_demo.mp4)
 
-**[Watch the combined demonstration (approximately 45 seconds)](assets/videos/dam_drl_demo.mp4)**
+
+https://github.com/user-attachments/assets/bcadc8e6-aeab-4e4b-bed5-0b3acf8a0a9c
+
+
+
+https://github.com/user-attachments/assets/e1b90216-99b1-41d3-a59f-a77db4393ced
+
+
+
+
 
 The video presents the simulation experiment first, followed by the real-world 2-vs-2 flight experiment.
 
